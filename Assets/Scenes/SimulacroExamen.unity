@@ -141,9 +141,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93c18557b0fffe24098134abe3e7288a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gusto: CHO
-  gramos: 1000
-  precioGramos: 0
+  gusto: FRU
+  gramos: 20000
 --- !u!4 &677752532
 Transform:
   m_ObjectHideFlags: 0

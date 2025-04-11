@@ -24,6 +24,10 @@ public class SimulacroHelados : MonoBehaviour
         {
             Debug.Log("Tienes que pagar $" + precioGramos * gramos);
         }
+        else
+        {
+            Debug.Log("Error");
+        }
 
 
 
